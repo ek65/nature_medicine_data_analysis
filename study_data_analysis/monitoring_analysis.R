@@ -75,7 +75,7 @@ p <- ggplot(plot_df,
   scale_y_discrete(limits = c("Specificity", "Sensitivity", "Accuracy")) +
   labs(x = "Estimate (95% CI)",
        y = NULL,
-       title = "     Evaluation of Intervention Software Monitoring Performance") +
+       title = "     Evaluation of Intervention Software Monitoring Capability") +
   theme_minimal(base_size = 12) +
   theme(legend.position = "bottom",
         plot.title = element_text(size = 12))
