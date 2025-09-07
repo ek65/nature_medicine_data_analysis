@@ -1,0 +1,29 @@
+{
+    "precaution": "If you feel pain, fatigue, or dizziness, please tell the system so that we can terminate the exercise for your safety.",
+    "instruction": [
+        "Lay your forearm flat on the table with your palm facing up to the ceiling.",
+        "Try to touch your thumb to your first finger (index finger).",
+        "Open your hand back up after touching your thumb to your first finger.",
+        "Now, touch your thumb to your second finger (middle finger).",
+        "Again, open your hand back up.",
+        "Next, touch your thumb to your third finger (ring finger).",
+        "Open your hand back up.",
+        "Lastly, touch your thumb to your fifth finger (pinky finger).",
+        "Then open your hand back up.",
+        "Repeat these steps two more times: thumb to index finger, open, thumb to middle finger, open, thumb to ring finger, open, and thumb to pinky finger, open. Let me guide you through the steps."
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "precaution": "If you feel pain, fatigue, or dizziness, please tell the system so that we can terminate the exercise for your safety.",
+    "instruction": [
+        "Bring your right arm across the table, horizontally, towards your left shoulder.",
+        "Then extend your right arm back out as far as you can towards your right side.",
+        "Place a pink post-it anywhere on the left side of the table.",
+        "Place a yellow sticky post-it pad above the pink one in a column.",
+        "Place a blue sticky post-it pad above the yellow one in a column.",
+        "Place a green cube as far as you can on your right side, opposite to the pink post-it note.",
+        "Place an orange cube right above the green cube.",
+        "Place a blue cube above the orange cube.",
+        "Move the green cube to the pink post-it note.",
+        "Move the blue cube to the blue post-it note.",
+        "Move the orange cube to the yellow post-it note."
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}

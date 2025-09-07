@@ -1,0 +1,44 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Hold the wallet with your left hand.",
+        "Time_Taken": 9.235594034194946,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "With your right hand, use your thumb and first finger to unzip the wallet.",
+        "Time_Taken": 11.481881856918335,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Put the wallet back on the table.",
+        "Time_Taken": 5.161173105239868,
+        "Completeness": true
+    },
+    "3": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "With your right hand, take a coin out of the wallet.",
+        "Time_Taken": 18.09289813041687,
+        "Completeness": false
+    },
+    "4": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the coin on the table.",
+        "Time_Taken": 11.195371866226196,
+        "Completeness": true
+    },
+    "5": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Take out the remaining coin from the wallet.",
+        "Time_Taken": 18.197936058044434,
+        "Completeness": false
+    },
+    "6": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Stack this coin on top of the other coin.",
+        "Time_Taken": 18.097041845321655,
+        "Completeness": false
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "precaution": "Clear your surroundings to make sure you do not knock over any items.",
+    "instruction": [
+        "Prepare a bowl in front of you at about chest height.",
+        "Position the bowl a little bit more on the right side.",
+        "Take the lighter weight object, the cube.",
+        "Pick up the cube and try to lift it as much as you can.",
+        "Bend your arm as much as the brace will allow as you move the cube.",
+        "Move the cube to your right.",
+        "Place the cube on the side of the table and gently let it go.",
+        "Lower your hand and pick up the banana.",
+        "Lift your arm to bring the banana up towards your face, bending your elbow as much as the brace will allow.",
+        "If the object is too heavy, move your arm out horizontally instead of lifting the banana high.",
+        "Place the banana gently on the table.",
+        "Grab the last cube in the bowl and try to lift it a little bit higher if possible.",
+        "Move the cube to your side and then gently set it down."
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}

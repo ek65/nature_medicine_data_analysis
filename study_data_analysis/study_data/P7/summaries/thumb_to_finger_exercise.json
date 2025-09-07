@@ -1,0 +1,62 @@
+{
+    "Exercise Step": [
+        "Lay your forearm flat on the table with your palm facing up to the ceiling.",
+        "Try to touch your thumb to your first finger (index finger).",
+        "Open your hand back up after touching your thumb to your first finger.",
+        "Now, touch your thumb to your second finger (middle finger).",
+        "Again, open your hand back up.",
+        "Next, touch your thumb to your third finger (ring finger).",
+        "Open your hand back up.",
+        "Lastly, touch your thumb to your fifth finger (pinky finger).",
+        "Then open your hand back up.",
+        "Repeat these steps two more times: thumb to index finger, open, thumb to middle finger, open, thumb to ring finger, open, and thumb to pinky finger, open. Let me guide you through the steps."
+    ],
+    "Successful Instructions": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "Failed Instructions": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "Omitted Instructions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "Duration of Completion": [
+        18.1459059715271,
+        2.3350250720977783,
+        17.920126914978027,
+        1.2142763137817383,
+        17.894140243530273,
+        18.221593141555786,
+        1.7881393432617188e-05,
+        17.932413816452026,
+        1.8358230590820312e-05,
+        106.08852100372314
+    ]
+}

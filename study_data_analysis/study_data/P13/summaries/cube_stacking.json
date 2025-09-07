@@ -1,0 +1,72 @@
+{
+    "Exercise Step": [
+        "Sit at the table with orange, blue, and green cubes in front of you.",
+        "Use your right hand to pick up the orange cube.",
+        "Place the orange cube on the table as the base.",
+        "Use your right hand to pick up the blue cube.",
+        "Stack the blue cube on top of the orange cube.",
+        "Use your right hand to pick up the green cube.",
+        "Stack the green cube on top of the blue cube.",
+        "Grab the green cube with your right hand.",
+        "Place the green cube on the table.",
+        "Grab the blue cube with your right hand.",
+        "Place the blue cube on the table",
+        "Rest your right hand."
+    ],
+    "Successful Instructions": [
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        true
+    ],
+    "Failed Instructions": [
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "Omitted Instructions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "Duration of Completion": [
+        6.209429979324341,
+        7.233305931091309,
+        18.364293098449707,
+        5.687835216522217,
+        18.37401509284973,
+        7.37824821472168,
+        18.06464409828186,
+        3.538715124130249,
+        18.28860902786255,
+        7.732635259628296,
+        7.036201000213623,
+        5.885179042816162
+    ]
+}

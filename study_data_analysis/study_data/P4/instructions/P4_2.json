@@ -1,0 +1,27 @@
+{
+    "precaution": "If you feel pain, fatigue, or dizziness, please tell the system so that we can terminate the exercise for your safety.",
+    "instruction": [
+        "Place the green block on the table in front of you with your left hand.",
+        "Place the orange block on the table in front of you with your left hand.",
+        "Place the blue block on the table in front of you with your left hand.",
+        "Extend your right elbow and reach for the green block.",
+        "Grab the green block with your right hand.",
+        "Place the green block on top of the orange block.",
+        "Reach for the blue block with your right hand.",
+        "Stack the blue block on top of the green block."
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}

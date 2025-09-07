@@ -1,0 +1,47 @@
+{
+    "Exercise Step": [
+        "Line up all three cubes on your left side using your right hand.",
+        "Grab the orange cube with your right hand.",
+        "Bring the orange cube to the edge of the table on your right side.",
+        "Grab the blue cube with your right hand.",
+        "Bring the blue cube to the edge of the table on your right side.",
+        "Reach for the green cube with your right hand.",
+        "Place the green cube under the blue cube, at the edge of the table on your right side."
+    ],
+    "Successful Instructions": [
+        false,
+        true,
+        true,
+        false,
+        false,
+        true,
+        true
+    ],
+    "Failed Instructions": [
+        true,
+        false,
+        false,
+        true,
+        true,
+        false,
+        false
+    ],
+    "Omitted Instructions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "Duration of Completion": [
+        18.122781991958618,
+        9.377285957336426,
+        5.389461040496826,
+        18.102622985839844,
+        18.10901975631714,
+        4.966373920440674,
+        3.559832811355591
+    ]
+}

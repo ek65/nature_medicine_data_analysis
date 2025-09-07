@@ -1,0 +1,62 @@
+{
+    "Exercise Step": [
+        "Sit in a chair in front of a table, with your forearm resting on the table, palm facing the ceiling and elbow in line with your wrist and your shoulder.",
+        "Bring your right thumb to touch the tip of your index finger as much as you can",
+        "Release the pinch between your right thumb and the index finger",
+        "Bring your right thumb to touch your middle finger as much as you can",
+        "Release the pinch between your right thumb and the middle finger",
+        "Bring your right thumb to touch your ring finger as much as you can",
+        "Release the pinch between your right thumb and the ring finger",
+        "Bring your right thumb to touch your pinky as much as you can, trying to touch the tip of the thumb",
+        "Release the pinch between your right thumb and the pinky",
+        "Repeat this exercise once more for each digit"
+    ],
+    "Successful Instructions": [
+        true,
+        true,
+        true,
+        false,
+        true,
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "Failed Instructions": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        true
+    ],
+    "Omitted Instructions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "Duration of Completion": [
+        7.75229811668396,
+        2.7624402046203613,
+        2.6702880859375e-05,
+        17.87788224220276,
+        2.7894973754882812e-05,
+        17.864115953445435,
+        17.87940788269043,
+        5.269084215164185,
+        1.9169929027557373,
+        79.4671733379364
+    ]
+}

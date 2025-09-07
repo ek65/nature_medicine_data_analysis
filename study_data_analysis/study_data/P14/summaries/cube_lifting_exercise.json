@@ -1,0 +1,57 @@
+{
+    "Exercise Step": [
+        "Grab the green cube with your right hand.",
+        "Lift the green cube up to your shoulder by bending your right elbow.",
+        "Lower the green cube back down by straightening your elbow as much as you can.",
+        "Grab the orange cube with your right hand.",
+        "Lift the orange cube up to your right shoulder by bending your right elbow.",
+        "Lower the orange cube back down towards the table by straightening your right elbow.",
+        "Release the orange cube. Grab the blue cube with your right hand.",
+        "Lift the blue cube up to shoulder height by bending your right elbow.",
+        "Lower the blue cube back towards the table by straightening your right elbow."
+    ],
+    "Successful Instructions": [
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "Failed Instructions": [
+        false,
+        true,
+        false,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true
+    ],
+    "Omitted Instructions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "Duration of Completion": [
+        7.49394679069519,
+        18.158390045166016,
+        9.628906965255737,
+        18.078715801239014,
+        18.145393133163452,
+        18.149683952331543,
+        3.2600998878479004,
+        18.449651956558228,
+        18.10431218147278
+    ]
+}

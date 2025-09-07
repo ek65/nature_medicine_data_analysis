@@ -1,0 +1,62 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckSeated+CheckWristSupination",
+        "Instruction": "Sit in a chair in front of a table, with your forearm resting on the table, palm facing the ceiling and elbow in line with your wrist and your shoulder.",
+        "Time_Taken": 7.75229811668396,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "CheckFingerTouch",
+        "Instruction": "Bring your right thumb to touch the tip of your index finger as much as you can",
+        "Time_Taken": 2.7624402046203613,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "CheckFingerTouch",
+        "Instruction": "Release the pinch between your right thumb and the index finger",
+        "Time_Taken": 2.6702880859375e-05,
+        "Completeness": true
+    },
+    "3": {
+        "ActionAPI": "CheckFingerTouch",
+        "Instruction": "Bring your right thumb to touch your middle finger as much as you can",
+        "Time_Taken": 17.87788224220276,
+        "Completeness": false
+    },
+    "4": {
+        "ActionAPI": "CheckFingerTouch",
+        "Instruction": "Release the pinch between your right thumb and the middle finger",
+        "Time_Taken": 2.7894973754882812e-05,
+        "Completeness": true
+    },
+    "5": {
+        "ActionAPI": "CheckFingerTouch",
+        "Instruction": "Bring your right thumb to touch your ring finger as much as you can",
+        "Time_Taken": 17.864115953445435,
+        "Completeness": false
+    },
+    "6": {
+        "ActionAPI": "CheckFingerTouch",
+        "Instruction": "Release the pinch between your right thumb and the ring finger",
+        "Time_Taken": 17.87940788269043,
+        "Completeness": false
+    },
+    "7": {
+        "ActionAPI": "CheckFingerTouch",
+        "Instruction": "Bring your right thumb to touch your pinky as much as you can, trying to touch the tip of the thumb",
+        "Time_Taken": 5.269084215164185,
+        "Completeness": true
+    },
+    "8": {
+        "ActionAPI": "CheckFingerTouch",
+        "Instruction": "Release the pinch between your right thumb and the pinky",
+        "Time_Taken": 1.9169929027557373,
+        "Completeness": true
+    },
+    "9": {
+        "ActionAPI": "Repeat Loop (1x)",
+        "Instruction": "Repeat this exercise once more for each digit",
+        "Time_Taken": 79.4671733379364,
+        "Completeness": false
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction+SitUpStraight",
+        "Instruction": "Sit upright, ensuring that you're not leaning onto the mat or the table.",
+        "Time_Taken": 18.15393090248108,
+        "Completeness": false
+    },
+    "1": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckWristPronation",
+        "Instruction": "Place your right hand flat on the table with your palm facing down.",
+        "Time_Taken": 18.07731008529663,
+        "Completeness": false
+    },
+    "2": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckFingerAdduction",
+        "Instruction": "Bring all your fingers together so that there's no space in between your fingers.",
+        "Time_Taken": 18.07669997215271,
+        "Completeness": false
+    },
+    "3": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckFingerSpread",
+        "Instruction": "Spread your fingers out all the way.",
+        "Time_Taken": 18.2169349193573,
+        "Completeness": false
+    },
+    "4": {
+        "ActionAPI": "",
+        "Instruction": "Repeat the action of bringing your fingers together and then spreading them out all the way.",
+        "Time_Taken": 0,
+        "Completeness": false
+    }
+}

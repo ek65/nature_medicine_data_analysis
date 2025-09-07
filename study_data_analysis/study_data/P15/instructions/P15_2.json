@@ -1,0 +1,35 @@
+{
+    "precaution": "Clear your surroundings to make sure you do not knock over any items.",
+    "instruction": [
+        "Start with your right hand flat on the table.",
+        "Flex your elbow.",
+        "Open up your fingers and your thumb.",
+        "Reach towards the green cube.",
+        "Close your fingers and your thumb around the green cube.",
+        "Flex your elbow.",
+        "Lift the green cube.",
+        "Stack the green cube on top of the blue cube.",
+        "Cross your body with your right arm towards the orange cube.",
+        "Extend the elbow.",
+        "Reach the orange cube.",
+        "Close your hand around the orange cube.",
+        "Lift the orange cube.",
+        "Stack the orange cube on top of the green cube.",
+        "Open your hand.",
+        "Bring your hand back down onto the table to rest."
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}

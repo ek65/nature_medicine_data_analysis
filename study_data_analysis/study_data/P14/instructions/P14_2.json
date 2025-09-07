@@ -1,0 +1,28 @@
+{
+    "precaution": "Clear your surroundings to make sure you do not knock over any items.",
+    "instruction": [
+        "Grab the green cube with your right hand.",
+        "Lift the green cube up to your shoulder by bending your right elbow.",
+        "Lower the green cube back down by straightening your elbow as much as you can.",
+        "Grab the orange cube with your right hand.",
+        "Lift the orange cube up to your right shoulder by bending your right elbow.",
+        "Lower the orange cube back down towards the table by straightening your right elbow.",
+        "Release the orange cube. Grab the blue cube with your right hand.",
+        "Lift the blue cube up to shoulder height by bending your right elbow.",
+        "Lower the blue cube back towards the table by straightening your right elbow."
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}

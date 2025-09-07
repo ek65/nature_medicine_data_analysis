@@ -1,0 +1,62 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Prepare a scoop in front of you.",
+        "Time_Taken": 5.3657732009887695,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckSeated",
+        "Instruction": "Sit comfortably with your right hand on the table.",
+        "Time_Taken": 3.9116711616516113,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "CheckWristPronation",
+        "Instruction": "Turn your palm facing down.",
+        "Time_Taken": 1.9073486328125e-05,
+        "Completeness": true
+    },
+    "3": {
+        "ActionAPI": "CheckWristSupination",
+        "Instruction": "Slowly rotate your forearm to turn your palm facing up.",
+        "Time_Taken": 3.457604169845581,
+        "Completeness": true
+    },
+    "4": {
+        "ActionAPI": "CheckWristPronation",
+        "Instruction": "Rotate your forearm again to turn your palm facing down.",
+        "Time_Taken": 3.1374809741973877,
+        "Completeness": true
+    },
+    "5": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Grab a scoop with your right hand.",
+        "Time_Taken": 5.397346019744873,
+        "Completeness": true
+    },
+    "6": {
+        "ActionAPI": "CheckWristSupination+SendImageAndTextRequestAction",
+        "Instruction": "Rotate your forearm to turn your palm up while holding the scoop.",
+        "Time_Taken": 18.081132173538208,
+        "Completeness": false
+    },
+    "7": {
+        "ActionAPI": "CheckWristPronation+SendImageAndTextRequestAction",
+        "Instruction": "Rotate your forearm to turn your palm down while holding the scoop.",
+        "Time_Taken": 7.519823312759399,
+        "Completeness": true
+    },
+    "8": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the scoop on the table",
+        "Time_Taken": 18.120314121246338,
+        "Completeness": false
+    },
+    "9": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Rest your right hand.",
+        "Time_Taken": 7.736647129058838,
+        "Completeness": true
+    }
+}

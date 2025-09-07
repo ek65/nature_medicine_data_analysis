@@ -1,0 +1,32 @@
+{
+    "precaution": "If you feel pain, fatigue, or dizziness, please tell the system so that we can terminate the exercise for your safety.",
+    "instruction": [
+        "Grab the tongs with your right hand, Yuri.",
+        "Squeeze the tongs together and relax it.",
+        "Use the same motion to pick up the red ball from the plate.",
+        "Lift the red ball",
+        "Bring the red ball all the way down to the towel.",
+        "Let go of the red ball on the towel.",
+        "Use the same squeezing motion to pick up the blue ball.",
+        "Lift the blue ball without dropping it",
+        "Bring the blue ball down onto the towel.",
+        "Repeat the process for the yellow ball.",
+        "After placing the yellow ball on the towel, let go completely.",
+        "Put the tongs back down on the towel.",
+        "Relax your fingers and stretch them out on the table."
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}

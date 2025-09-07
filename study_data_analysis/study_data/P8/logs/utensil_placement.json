@@ -1,0 +1,68 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckSeated",
+        "Instruction": "Sit at the table with a spoon, a pair of chopsticks, a fork, and a container in front of you.",
+        "Time_Taken": 7.738728046417236,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place your right hand on the table near the utensils.",
+        "Time_Taken": 4.103919744491577,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Use your right hand to pick up the spoon.",
+        "Time_Taken": 19.23682999610901,
+        "Completeness": false
+    },
+    "3": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the spoon into the container.",
+        "Time_Taken": 18.180418968200684,
+        "Completeness": false
+    },
+    "4": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Rest your hand on the table to take a brief break.",
+        "Time_Taken": 18.2103009223938,
+        "Completeness": false
+    },
+    "5": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Use your right hand to pick up the pair of chopsticks.",
+        "Time_Taken": 9.615998029708862,
+        "Completeness": true
+    },
+    "6": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the chopsticks into the container.",
+        "Time_Taken": 7.321852922439575,
+        "Completeness": true
+    },
+    "7": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Rest your hand on the table to take a brief break.",
+        "Time_Taken": 18.17417883872986,
+        "Completeness": false
+    },
+    "8": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Use your right hand to pick up the fork.",
+        "Time_Taken": 18.122349739074707,
+        "Completeness": false
+    },
+    "9": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the fork into the container.",
+        "Time_Taken": 11.069463014602661,
+        "Completeness": true
+    },
+    "10": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Rest your right arm.",
+        "Time_Taken": 5.50274395942688,
+        "Completeness": true
+    }
+}

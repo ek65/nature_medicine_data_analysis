@@ -1,0 +1,52 @@
+{
+    "Exercise Step": [
+        "Place the green block on the table in front of you with your left hand.",
+        "Place the orange block on the table in front of you with your left hand.",
+        "Place the blue block on the table in front of you with your left hand.",
+        "Extend your right elbow and reach for the green block.",
+        "Grab the green block with your right hand.",
+        "Place the green block on top of the orange block.",
+        "Reach for the blue block with your right hand.",
+        "Stack the blue block on top of the green block."
+    ],
+    "Successful Instructions": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true
+    ],
+    "Failed Instructions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "Omitted Instructions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "Duration of Completion": [
+        7.833491086959839,
+        3.3544921875,
+        11.620850086212158,
+        10.182408809661865,
+        3.446676254272461,
+        18.349318027496338,
+        5.245506048202515,
+        7.696605920791626
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "precaution": "Remove any objects you may knock off from the table",
+    "instruction": [
+        "Sit at the table with a bowl containing three colored spheres\u2014yellow, red, and blue\u2014, a towel, and a tong in front of you.",
+        "Pick up the tongs with your right hand.",
+        "Use the tongs to pick up the yellow bead from the bowl.",
+        "Move the yellow bead onto the towel and release it gently.",
+        "Next, use the tongs to pick up the red bead from the bowl.",
+        "Move the red bead onto the towel and release it.",
+        "Then, pick up the blue bead from the bowl using the tongs.",
+        "Place the blue sphere on the towel.",
+        "Next, place the tongs on the table",
+        "Finally, rest your right hand."
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}

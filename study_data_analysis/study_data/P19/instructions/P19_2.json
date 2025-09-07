@@ -1,0 +1,26 @@
+{
+    "precaution": "Clear your surroundings to make sure you do not knock over any items. Tell the system if your fingers are numb.",
+    "instruction": [
+        "Hold the wallet with your left hand.",
+        "With your right hand, use your thumb and first finger to unzip the wallet.",
+        "Put the wallet back on the table.",
+        "With your right hand, take a coin out of the wallet.",
+        "Place the coin on the table.",
+        "Take out the remaining coin from the wallet.",
+        "Stack this coin on top of the other coin."
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}

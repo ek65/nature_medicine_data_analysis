@@ -1,0 +1,44 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Line up all three cubes on your left side using your right hand.",
+        "Time_Taken": 18.122781991958618,
+        "Completeness": false
+    },
+    "1": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Grab the orange cube with your right hand.",
+        "Time_Taken": 9.377285957336426,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Bring the orange cube to the edge of the table on your right side.",
+        "Time_Taken": 5.389461040496826,
+        "Completeness": true
+    },
+    "3": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Grab the blue cube with your right hand.",
+        "Time_Taken": 18.102622985839844,
+        "Completeness": false
+    },
+    "4": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Bring the blue cube to the edge of the table on your right side.",
+        "Time_Taken": 18.10901975631714,
+        "Completeness": false
+    },
+    "5": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Reach for the green cube with your right hand.",
+        "Time_Taken": 4.966373920440674,
+        "Completeness": true
+    },
+    "6": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the green cube under the blue cube, at the edge of the table on your right side.",
+        "Time_Taken": 3.559832811355591,
+        "Completeness": true
+    }
+}

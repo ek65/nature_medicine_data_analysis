@@ -1,0 +1,62 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckSeated",
+        "Instruction": "Sit at the table with a bowl containing an apple, a lemon, and a banana in front of you.",
+        "Time_Taken": 3.771566867828369,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place your right hand near the bowl.",
+        "Time_Taken": 9.256147861480713,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Use your right hand to pick up the apple from the bowl.",
+        "Time_Taken": 18.295321226119995,
+        "Completeness": false
+    },
+    "3": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the apple gently on the table.",
+        "Time_Taken": 18.46917200088501,
+        "Completeness": false
+    },
+    "4": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Use your right hand to pick up the lemon from the bowl.",
+        "Time_Taken": 7.679944038391113,
+        "Completeness": true
+    },
+    "5": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Gently place the lemon on the table.",
+        "Time_Taken": 9.528127193450928,
+        "Completeness": true
+    },
+    "6": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Rest your right hand on the table.",
+        "Time_Taken": 5.379626035690308,
+        "Completeness": true
+    },
+    "7": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Pick up the banana using your right hand.",
+        "Time_Taken": 18.180439949035645,
+        "Completeness": false
+    },
+    "8": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the banana on the table.",
+        "Time_Taken": 18.093920946121216,
+        "Completeness": false
+    },
+    "9": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Rest your right arm.",
+        "Time_Taken": 5.293365001678467,
+        "Completeness": true
+    }
+}

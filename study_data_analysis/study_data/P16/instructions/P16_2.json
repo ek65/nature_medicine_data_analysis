@@ -1,0 +1,27 @@
+{
+    "precaution": "Clear your surroundings to make sure you do not knock over any items.",
+    "instruction": [
+        "Place the tongs in your right hand with your left hand.",
+        "Position the thumb on one side of the tongs and the other four fingers on the other side.",
+        "Pick up one ball at a time with the tongs.",
+        "Transfer the ball to the towel.",
+        "Repeat the third and fourth steps for all three balls.",
+        "After all balls are transferred to the towel, pick up one ball at a time from the towel",
+        "Transfer the ball back to the bowl.",
+        "Repeat the last two steps until all balls are back in the bowl."
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}

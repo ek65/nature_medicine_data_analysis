@@ -1,0 +1,56 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Grab the green cube with your right hand.",
+        "Time_Taken": 7.49394679069519,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "CheckElbowBend+SendImageAndTextRequestAction",
+        "Instruction": "Lift the green cube up to your shoulder by bending your right elbow.",
+        "Time_Taken": 18.158390045166016,
+        "Completeness": false
+    },
+    "2": {
+        "ActionAPI": "CheckElbowExtension+SendImageAndTextRequestAction",
+        "Instruction": "Lower the green cube back down by straightening your elbow as much as you can.",
+        "Time_Taken": 9.628906965255737,
+        "Completeness": true
+    },
+    "3": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Grab the orange cube with your right hand.",
+        "Time_Taken": 18.078715801239014,
+        "Completeness": false
+    },
+    "4": {
+        "ActionAPI": "CheckElbowBend+SendImageAndTextRequestAction",
+        "Instruction": "Lift the orange cube up to your right shoulder by bending your right elbow.",
+        "Time_Taken": 18.145393133163452,
+        "Completeness": false
+    },
+    "5": {
+        "ActionAPI": "CheckElbowExtension+SendImageAndTextRequestAction",
+        "Instruction": "Lower the orange cube back down towards the table by straightening your right elbow.",
+        "Time_Taken": 18.149683952331543,
+        "Completeness": false
+    },
+    "6": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Release the orange cube. Grab the blue cube with your right hand.",
+        "Time_Taken": 3.2600998878479004,
+        "Completeness": true
+    },
+    "7": {
+        "ActionAPI": "CheckElbowBend+SendImageAndTextRequestAction",
+        "Instruction": "Lift the blue cube up to shoulder height by bending your right elbow.",
+        "Time_Taken": 18.449651956558228,
+        "Completeness": false
+    },
+    "8": {
+        "ActionAPI": "CheckElbowExtension+SendImageAndTextRequestAction",
+        "Instruction": "Lower the blue cube back towards the table by straightening your right elbow.",
+        "Time_Taken": 18.10431218147278,
+        "Completeness": false
+    }
+}

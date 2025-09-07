@@ -1,0 +1,74 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckSeated",
+        "Instruction": "Sit at the table with orange, blue, and green cubes in front of you.",
+        "Time_Taken": 6.209429979324341,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Use your right hand to pick up the orange cube.",
+        "Time_Taken": 7.233305931091309,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the orange cube on the table as the base.",
+        "Time_Taken": 18.364293098449707,
+        "Completeness": false
+    },
+    "3": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Use your right hand to pick up the blue cube.",
+        "Time_Taken": 5.687835216522217,
+        "Completeness": true
+    },
+    "4": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Stack the blue cube on top of the orange cube.",
+        "Time_Taken": 18.37401509284973,
+        "Completeness": false
+    },
+    "5": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Use your right hand to pick up the green cube.",
+        "Time_Taken": 7.37824821472168,
+        "Completeness": true
+    },
+    "6": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Stack the green cube on top of the blue cube.",
+        "Time_Taken": 18.06464409828186,
+        "Completeness": false
+    },
+    "7": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Grab the green cube with your right hand.",
+        "Time_Taken": 3.538715124130249,
+        "Completeness": true
+    },
+    "8": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the green cube on the table.",
+        "Time_Taken": 18.28860902786255,
+        "Completeness": false
+    },
+    "9": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Grab the blue cube with your right hand.",
+        "Time_Taken": 7.732635259628296,
+        "Completeness": true
+    },
+    "10": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the blue cube on the table",
+        "Time_Taken": 7.036201000213623,
+        "Completeness": true
+    },
+    "11": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Rest your right hand.",
+        "Time_Taken": 5.885179042816162,
+        "Completeness": true
+    }
+}

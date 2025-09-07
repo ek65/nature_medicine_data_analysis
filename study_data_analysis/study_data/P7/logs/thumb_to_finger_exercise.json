@@ -1,0 +1,62 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckWristSupination",
+        "Instruction": "Lay your forearm flat on the table with your palm facing up to the ceiling.",
+        "Time_Taken": 18.1459059715271,
+        "Completeness": false
+    },
+    "1": {
+        "ActionAPI": "CheckFingerTouch",
+        "Instruction": "Try to touch your thumb to your first finger (index finger).",
+        "Time_Taken": 2.3350250720977783,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "CheckOpenPalm",
+        "Instruction": "Open your hand back up after touching your thumb to your first finger.",
+        "Time_Taken": 17.920126914978027,
+        "Completeness": false
+    },
+    "3": {
+        "ActionAPI": "CheckFingerTouch",
+        "Instruction": "Now, touch your thumb to your second finger (middle finger).",
+        "Time_Taken": 1.2142763137817383,
+        "Completeness": true
+    },
+    "4": {
+        "ActionAPI": "CheckOpenPalm",
+        "Instruction": "Again, open your hand back up.",
+        "Time_Taken": 17.894140243530273,
+        "Completeness": false
+    },
+    "5": {
+        "ActionAPI": "CheckFingerTouch",
+        "Instruction": "Next, touch your thumb to your third finger (ring finger).",
+        "Time_Taken": 18.221593141555786,
+        "Completeness": false
+    },
+    "6": {
+        "ActionAPI": "CheckOpenPalm",
+        "Instruction": "Open your hand back up.",
+        "Time_Taken": 1.7881393432617188e-05,
+        "Completeness": true
+    },
+    "7": {
+        "ActionAPI": "CheckFingerTouch",
+        "Instruction": "Lastly, touch your thumb to your fifth finger (pinky finger).",
+        "Time_Taken": 17.932413816452026,
+        "Completeness": false
+    },
+    "8": {
+        "ActionAPI": "CheckOpenPalm",
+        "Instruction": "Then open your hand back up.",
+        "Time_Taken": 1.8358230590820312e-05,
+        "Completeness": true
+    },
+    "9": {
+        "ActionAPI": "Repeat Loop (2x)",
+        "Instruction": "Repeat these steps two more times: thumb to index finger, open, thumb to middle finger, open, thumb to ring finger, open, and thumb to pinky finger, open. Let me guide you through the steps.",
+        "Time_Taken": 106.08852100372314,
+        "Completeness": true
+    }
+}

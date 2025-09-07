@@ -1,0 +1,26 @@
+{
+    "precaution": "Clear your surroundings to make sure you do not knock over any items.",
+    "instruction": [
+        "Line up all three cubes on your left side using your right hand.",
+        "Grab the orange cube with your right hand.",
+        "Bring the orange cube to the edge of the table on your right side.",
+        "Grab the blue cube with your right hand.",
+        "Bring the blue cube to the edge of the table on your right side.",
+        "Reach for the green cube with your right hand.",
+        "Place the green cube under the blue cube, at the edge of the table on your right side."
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}

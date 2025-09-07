@@ -1,0 +1,44 @@
+Instruction1:
+1. Sit at a table with a pink and a yellow post-its in front of you. 
+2. Rest your right hand on the table. 
+3. With your left hand, place the pink post-it at the edge of the table away from you. 
+4. With your left hand, place the yellow post-it at the edge of the table right in front of you. 
+5. Position your right hand on the yellow post-it.
+6. Reach forward with your right hand to touch the pink post-it by extending your elbow.
+7. Return your hand again to the yellow post-it.
+8. Reach forward with your right hand to touch the pink post-it by extending your elbow.
+9. Return your hand again to the yellow post-it.
+10. Rest your hand on the table. 
+
+Instruction2: 
+0. Put the post it in front of you with your left hand. 
+1. Start with your arm in a neutral position on the table.
+2. Slide your arm forward as far as you can to reach for the pink post-it.
+3. Slide your arm back as far as you can towards your body.
+4. Repeat the process of straightening your elbow and reaching forward for the pink post-it.
+5. Bring your arm back to your body again.
+6. Repeat the process of reaching forward and sliding back once more.
+
+Instruction3:
+1. Grab the green cube with your right hand.
+2. Lift the green cube up to your shoulder by bending your right elbow.
+3. Lower the green cube back down by straightening your elbow as much as you can.
+4. Grab the orange cube with your right hand.
+5. Lift the orange cube up to your right shoulder by bending your right elbow.
+6. Lower the orange cube back down towards the table by straightening your right elbow.
+7. Release the orange cube.
+8. Grab the blue cube with your right hand.
+9. Lift the blue cube up to shoulder height by bending your right elbow.
+10. Lower the blue cube back towards the table by straightening your right elbow.
+
+Instruction4:
+1. Sit at a table with a pink and a yellow post-its in front of you. 
+2. Rest your right hand on the table. 
+3. With your left hand, place the pink post-it at the edge of the table away from you. 
+4. With your left hand, place the yellow post-it at the edge of the table right in front of you. 
+5. Position your right hand on the yellow post-it.
+6. Reach forward with your right hand to touch the pink post-it by extending your elbow.
+7. Return your hand again to the yellow post-it.
+8. Reach forward with your right hand to touch the pink post-it by extending your elbow.
+9. Return your hand again to the yellow post-it.
+10. Rest your hand on the table. 

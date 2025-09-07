@@ -1,0 +1,43 @@
+Instruction1: 
+1. Grab the tongs with your right hand, Yuri.
+2. Squeeze the tongs together and relax it.
+3. Use the same motion to pick up the red ball from the plate.
+4. Lift the red ball and bring it all the way down to the towel.
+5. Let go of the red ball on the towel.
+6. Use the same squeezing motion to pick up the blue ball.
+7. Lift the blue ball without dropping it and bring it down onto the towel.
+8. Repeat the process for the yellow ball.
+9. After placing the yellow ball on the towel, let go completely.
+10. Put the tongs back down on the towel.
+
+Instruction2:
+1. Sit at the table with a bowl containing three colored spheres—yellow, red, and blue—, a towel, and  a tong in front of you.
+2. Pick up the tongs with your right hand.
+3. Use the tongs to pick up the yellow bead from the bowl.
+4. Move the yellow bead onto the towel and release it gently.
+5. Use the tongs to pick up the red bead from the bowl. 
+6. Move the red bead onto the towel and release it.
+7. Pick up the blue bead from the bowl using the tongs.
+8. Place the blue sphere on the towel.
+9. Place the tongs on the table
+10. Rest your right hand.
+
+Instruction3: 
+1. Place the tongs in your right hand with your left hand.
+2. Position the thumb on one side of the tongs and the other four fingers on the other side.
+3. Pick up one ball at a time with the tongs.
+4. Transferring the balls over to the towel one at a time.
+5. Repeat the previous steps for all three balls.
+6. after all balls are transferred to the towel, transfer them back to the bowl one at a time
+
+Instruction4:
+1. "Sit at the table with a bowl containing three colored spheres\u2014yellow, red, and blue\u2014, a towel, and a tong in front of you.",
+2. "Pick up the tongs with your right hand.",
+3. "Use the tongs to pick up the yellow bead from the bowl.",
+4. "Move the yellow bead onto the towel and release it gently.",
+5. "Next, use the tongs to pick up the red bead from the bowl.",
+6. "Move the red bead onto the towel and release it.",
+7. "Then, pick up the blue bead from the bowl using the tongs.",
+8. "Place the blue sphere on the towel.",
+9. "Next, place the tongs on the table",
+10. "Finally, rest your right hand."

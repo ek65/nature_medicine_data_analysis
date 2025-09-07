@@ -1,0 +1,62 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckWristPronation",
+        "Instruction": "Rest your right hand on the table with your palm facing down.",
+        "Time_Taken": 3.7481627464294434,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "CheckBetweenFingerAngle",
+        "Instruction": "Spread apart your index and middle fingers as much as you can.",
+        "Time_Taken": 3.1706438064575195,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "CheckBetweenFingerAngle",
+        "Instruction": "Bring them back together.",
+        "Time_Taken": 4.178391695022583,
+        "Completeness": true
+    },
+    "3": {
+        "ActionAPI": "CheckBetweenFingerAngle",
+        "Instruction": "Spread apart your middle and ring fingers.",
+        "Time_Taken": 4.380998849868774,
+        "Completeness": true
+    },
+    "4": {
+        "ActionAPI": "CheckBetweenFingerAngle",
+        "Instruction": "Bring them back together.",
+        "Time_Taken": 17.98993730545044,
+        "Completeness": false
+    },
+    "5": {
+        "ActionAPI": "CheckBetweenFingerAngle",
+        "Instruction": "Spread apart your ring and little fingers.",
+        "Time_Taken": 17.98978590965271,
+        "Completeness": false
+    },
+    "6": {
+        "ActionAPI": "CheckBetweenFingerAngle",
+        "Instruction": "Bring them back together.",
+        "Time_Taken": 2.0338802337646484,
+        "Completeness": true
+    },
+    "7": {
+        "ActionAPI": "CheckBetweenFingerAngle",
+        "Instruction": "Spread apart your thumb and index fingers.",
+        "Time_Taken": 2.857808828353882,
+        "Completeness": true
+    },
+    "8": {
+        "ActionAPI": "CheckBetweenFingerAngle",
+        "Instruction": "Bring them back together.",
+        "Time_Taken": 17.96817374229431,
+        "Completeness": false
+    },
+    "9": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Rest your right hand.",
+        "Time_Taken": 7.322782039642334,
+        "Completeness": true
+    }
+}

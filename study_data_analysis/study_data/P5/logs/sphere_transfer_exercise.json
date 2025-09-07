@@ -1,0 +1,50 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckSeated",
+        "Instruction": "Sit at the table with a bowl containing three colored spheres\u2014yellow, red, and blue\u2014, a towel, and a tong in front of you.",
+        "Time_Taken": 4.0352020263671875,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Pour the bowl of the spheres onto a towel placed on the table in front of you.",
+        "Time_Taken": 13.832562923431396,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Grab the tongs with your right hand.",
+        "Time_Taken": 5.464792966842651,
+        "Completeness": true
+    },
+    "3": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Rest your right arm on the table.",
+        "Time_Taken": 19.35294222831726,
+        "Completeness": false
+    },
+    "4": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "While your right arm is resting on the table, hold the tongs and grab the spheres one by one.",
+        "Time_Taken": 7.595586061477661,
+        "Completeness": true
+    },
+    "5": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the spheres back into the bowl while ensuring that your arm remains in a gravity-reduced position.",
+        "Time_Taken": 18.252442836761475,
+        "Completeness": false
+    },
+    "6": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Once all the spheres have been placed into the bowl, release the tongs.",
+        "Time_Taken": 18.168669939041138,
+        "Completeness": false
+    },
+    "7": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Rest your right hand.",
+        "Time_Taken": 18.141035795211792,
+        "Completeness": false
+    }
+}

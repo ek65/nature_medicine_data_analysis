@@ -1,0 +1,29 @@
+{
+    "precaution": "Remove any objects you may knock off from the table",
+    "instruction": [
+        "Rest your right hand on the table with your palm facing down.",
+        "Spread apart your index and middle fingers as much as you can.",
+        "Bring your index and middle fingers back together.",
+        "Spread apart your middle and ring fingers.",
+        "Bring your middle and ring fingers back together.",
+        "Spread apart your ring and little fingers.",
+        "Bring your ring and little fingers back together.",
+        "Spread apart your thumb and index fingers.",
+        "Bring your thumb and index fingers back together.",
+        "Rest your right hand."
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}

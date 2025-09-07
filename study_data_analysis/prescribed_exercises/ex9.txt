@@ -1,0 +1,52 @@
+Instruction1:
+1. Sit at the table with orange, blue, and green cubes in front of you.
+2. Use your right hand to pick up the orange cube.
+3. Place the orange cube on the table as the base.
+4. Pick up the blue cube with your right hand.
+5. Stack the blue cube on top of the orange cube.
+6. Pick up the green cube with your right hand.
+7. Stack the green cube on top of the blue cube.
+8. Grab the green cube with your right hand.
+9. Place the green cube on the table.
+10. Grab the blue cube with your right hand.
+11. Place the blue cube on the table
+12. Rest your right hand.
+
+Instruction2:
+1. "Place the green block on the table in front of you with your left hand.",
+2. "Place the orange block on the table in front of you with your left hand.",
+3. "Place the blue block on the table in front of you with your left hand.",
+4. "Extend your right elbow and reach for the green block.",
+5."Grab the green block with your right hand.",
+6. "Place the green block on top of the orange block.",
+7. "Reach for the blue block with your right hand.",
+8. "Stack the blue block on top of the green block."
+
+Instruction3:
+1. Sit at the table with orange, blue, and green cubes in front of you.
+2. Use your right hand to pick up the orange cube.
+3. Place the orange cube on the table as the base.
+4. Pick up the blue cube with your right hand.
+5. Stack the blue cube on top of the orange cube.
+6. Pick up the green cube with your right hand.
+7. Stack the green cube on top of the blue cube.
+8. Grab the green cube with your right hand.
+9. Place the green cube on the table.
+10. Grab the blue cube with your right hand.
+11. Place the blue cube on the table
+12. Rest your right hand.
+
+Instruction4:
+1. Start with your right hand flat on the table.
+2. Flex your elbow.
+3. Open up your fingers and your thumb while reaching towards the green cube.
+4. Close your fingers and your thumb around the green cube.
+5. Flex your elbow and lift the green cube.
+6. Stack the green cube on top of the blue cube.
+7. Cross your body with your right arm towards the orange cube.
+8. Extend the elbow to reach the orange cube.
+9. close your hand around the orange cube.
+10. Lift the orange cube.
+11. Stack the orange cube on top of the green cube.
+12. Open your hand.
+13. Bring your hand back down onto the table to rest.

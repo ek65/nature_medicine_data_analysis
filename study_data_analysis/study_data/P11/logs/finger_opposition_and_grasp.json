@@ -1,0 +1,44 @@
+{
+    "0": {
+        "ActionAPI": "CheckFingerTouch",
+        "Instruction": "Perform opposition (touch the pads of your thumb and index finger) between your thumb and index finger.",
+        "Time_Taken": 2.5388197898864746,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "CheckFingerTouch",
+        "Instruction": "Try the same opposition with your thumb and middle finger.",
+        "Time_Taken": 2.563400983810425,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "CheckFingerTouch",
+        "Instruction": "Next, try the opposition with your thumb and ring finger.",
+        "Time_Taken": 18.040579080581665,
+        "Completeness": false
+    },
+    "3": {
+        "ActionAPI": "CheckFingerTouch",
+        "Instruction": "Attempt the opposition with your thumb and pinkie finger.",
+        "Time_Taken": 18.234354972839355,
+        "Completeness": false
+    },
+    "4": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Use your thumb and index finger to pick up the handle of the spoon and drop it into your pink box.",
+        "Time_Taken": 18.19652485847473,
+        "Completeness": false
+    },
+    "5": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Repeat the same process with a fork, using your thumb and index finger. If the fork is a bit heavy, use your middle finger together with your thumb and index finger to form a tripod grasp.",
+        "Time_Taken": 18.11374807357788,
+        "Completeness": false
+    },
+    "6": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Drop the fork into the container.",
+        "Time_Taken": 18.238574266433716,
+        "Completeness": false
+    }
+}

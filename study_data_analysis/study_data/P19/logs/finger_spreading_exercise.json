@@ -1,0 +1,62 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckWristPronation",
+        "Instruction": "Rest your right hand on the table with your palm facing down.",
+        "Time_Taken": 18.07517385482788,
+        "Completeness": false
+    },
+    "1": {
+        "ActionAPI": "CheckBetweenFingerAngle",
+        "Instruction": "Spread apart your index and middle fingers as much as you can.",
+        "Time_Taken": 9.13057279586792,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "CheckBetweenFingerAngle",
+        "Instruction": "Bring your index and middle fingers back together.",
+        "Time_Taken": 5.1699018478393555,
+        "Completeness": true
+    },
+    "3": {
+        "ActionAPI": "CheckBetweenFingerAngle",
+        "Instruction": "Spread apart your middle and ring fingers.",
+        "Time_Taken": 17.957658290863037,
+        "Completeness": false
+    },
+    "4": {
+        "ActionAPI": "CheckBetweenFingerAngle",
+        "Instruction": "Bring your middle and ring fingers back together.",
+        "Time_Taken": 17.921053886413574,
+        "Completeness": false
+    },
+    "5": {
+        "ActionAPI": "CheckBetweenFingerAngle",
+        "Instruction": "Spread apart your ring and little fingers.",
+        "Time_Taken": 1.9265050888061523,
+        "Completeness": true
+    },
+    "6": {
+        "ActionAPI": "CheckBetweenFingerAngle",
+        "Instruction": "Bring your ring and little fingers back together.",
+        "Time_Taken": 3.963456869125366,
+        "Completeness": true
+    },
+    "7": {
+        "ActionAPI": "CheckBetweenFingerAngle",
+        "Instruction": "Spread apart your thumb and index fingers.",
+        "Time_Taken": 17.925156831741333,
+        "Completeness": false
+    },
+    "8": {
+        "ActionAPI": "CheckBetweenFingerAngle",
+        "Instruction": "Bring your thumb and index fingers back together.",
+        "Time_Taken": 17.851996183395386,
+        "Completeness": false
+    },
+    "9": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Rest your right hand.",
+        "Time_Taken": 7.4812541007995605,
+        "Completeness": true
+    }
+}

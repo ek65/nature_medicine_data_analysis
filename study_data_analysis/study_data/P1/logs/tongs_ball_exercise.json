@@ -1,0 +1,80 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Grab the tongs with your right hand, Yuri.",
+        "Time_Taken": 7.855694055557251,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "RecordVideoAndEvaluateAction",
+        "Instruction": "Squeeze the tongs together and relax it.",
+        "Time_Taken": 12.274057865142822,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Use the same motion to pick up the red ball from the plate.",
+        "Time_Taken": 13.446885824203491,
+        "Completeness": true
+    },
+    "3": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Lift the red ball",
+        "Time_Taken": 3.0539798736572266,
+        "Completeness": true
+    },
+    "4": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Bring the red ball all the way down to the towel.",
+        "Time_Taken": 18.256279945373535,
+        "Completeness": false
+    },
+    "5": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Let go of the red ball on the towel.",
+        "Time_Taken": 18.220465183258057,
+        "Completeness": false
+    },
+    "6": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Use the same squeezing motion to pick up the blue ball.",
+        "Time_Taken": 18.09266996383667,
+        "Completeness": false
+    },
+    "7": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Lift the blue ball without dropping it",
+        "Time_Taken": 7.269372940063477,
+        "Completeness": true
+    },
+    "8": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Bring the blue ball down onto the towel.",
+        "Time_Taken": 18.26600217819214,
+        "Completeness": false
+    },
+    "9": {
+        "ActionAPI": "Repeat Loop for Yellow Ball",
+        "Instruction": "Repeat the process for the yellow ball.",
+        "Time_Taken": 44.486916065216064,
+        "Completeness": false
+    },
+    "10": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "After placing the yellow ball on the towel, let go completely.",
+        "Time_Taken": 21.2473201751709,
+        "Completeness": false
+    },
+    "11": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Put the tongs back down on the towel.",
+        "Time_Taken": 7.364383935928345,
+        "Completeness": true
+    },
+    "12": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckFingerExtension",
+        "Instruction": "Relax your fingers and stretch them out on the table.",
+        "Time_Taken": 10.119032144546509,
+        "Completeness": true
+    }
+}

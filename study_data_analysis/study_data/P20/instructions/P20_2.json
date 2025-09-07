@@ -1,0 +1,25 @@
+{
+    "precaution": "Clear your surroundings to make sure you do not knock over any items.",
+    "instruction": [
+        "Put the scoop in your right hand.",
+        "Rest your right forearm on the table.",
+        "Keep your right forearm in contact with the table and turn your right arm so your palm is facing up and the scoop is towards the right.",
+        "Turn your right arm so your palm is facing down towards the table and the scoop is towards the left.",
+        "Hold each position for 3 seconds.",
+        "Repeat these steps one more time."
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}

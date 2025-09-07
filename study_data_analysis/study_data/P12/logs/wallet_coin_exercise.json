@@ -1,0 +1,74 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Hold the wallet with your left hand.",
+        "Time_Taken": 5.396752119064331,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Slowly bring the wallet to your right hand.",
+        "Time_Taken": 15.881176948547363,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "With your right hand, hold the zipper of the wallet.",
+        "Time_Taken": 3.45473313331604,
+        "Completeness": true
+    },
+    "3": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Slowly open the zipper of the wallet while continuing to hold it with your left hand.",
+        "Time_Taken": 7.4443700313568115,
+        "Completeness": true
+    },
+    "4": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Retrieve a coin from inside the wallet while still holding the wallet with your left hand.",
+        "Time_Taken": 9.672931909561157,
+        "Completeness": true
+    },
+    "5": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Hold the coin with your right hand.",
+        "Time_Taken": 18.334679126739502,
+        "Completeness": false
+    },
+    "6": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Pick up the coin with your right hand fingers.",
+        "Time_Taken": 9.595568895339966,
+        "Completeness": true
+    },
+    "7": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the coin on the table.",
+        "Time_Taken": 15.117735147476196,
+        "Completeness": true
+    },
+    "8": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Put the wallet away.",
+        "Time_Taken": 18.124002933502197,
+        "Completeness": false
+    },
+    "9": {
+        "ActionAPI": "RecordVideoAndEvaluateAction",
+        "Instruction": "Practice picking up the coin from the table and then putting it down.",
+        "Time_Taken": 18.132482051849365,
+        "Completeness": false
+    },
+    "10": {
+        "ActionAPI": "RecordVideoAndEvaluateAction+CheckElbowBend",
+        "Instruction": "Practice picking up the coin from the table and then putting it down, ensuring to bend your elbow during the process.",
+        "Time_Taken": 18.029062271118164,
+        "Completeness": false
+    },
+    "11": {
+        "ActionAPI": "RecordVideoAndEvaluateAction",
+        "Instruction": "Practice the action of putting the coin back in the wallet, using this as a gripping exercise with your fingers.",
+        "Time_Taken": 18.19672393798828,
+        "Completeness": false
+    }
+}

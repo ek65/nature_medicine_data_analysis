@@ -1,0 +1,67 @@
+{
+    "Exercise Step": [
+        "Sit at a table with a wallet placed in front of you.",
+        "Place your right hand near the wallet.",
+        "Hold the wallet with your left hand.",
+        "Use your right hand to unzip the wallet slowly.",
+        "Use your right hand to reach into the coin pocket.",
+        "Pinch and remove one coin using your fingers.",
+        "Place the coin on the table.",
+        "Pinch and remove one more coin using your fingers.",
+        "Place the coin on the table.",
+        "Place the wallet on the table.",
+        "Rest your right arm."
+    ],
+    "Successful Instructions": [
+        true,
+        false,
+        false,
+        true,
+        true,
+        true,
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "Failed Instructions": [
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "Omitted Instructions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "Duration of Completion": [
+        4.465212821960449,
+        18.111280918121338,
+        18.208014726638794,
+        11.31215214729309,
+        4.991173028945923,
+        7.998234748840332,
+        18.107436895370483,
+        9.521984815597534,
+        18.225353956222534,
+        18.2032949924469,
+        3.663978099822998
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "precaution": "Clear your surroundings to make sure you do not knock over any items.",
+    "instruction": [
+        "Sit in a chair in front of a table, with your forearm resting on the table, palm facing the ceiling and elbow in line with your wrist and your shoulder.",
+        "Bring your right thumb to touch the tip of your index finger as much as you can",
+        "Release the pinch between your right thumb and the index finger",
+        "Bring your right thumb to touch your middle finger as much as you can",
+        "Release the pinch between your right thumb and the middle finger",
+        "Bring your right thumb to touch your ring finger as much as you can",
+        "Release the pinch between your right thumb and the ring finger",
+        "Bring your right thumb to touch your pinky as much as you can, trying to touch the tip of the thumb",
+        "Release the pinch between your right thumb and the pinky",
+        "Repeat this exercise once more for each digit"
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}

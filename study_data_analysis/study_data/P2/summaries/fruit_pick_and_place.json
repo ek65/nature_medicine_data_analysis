@@ -1,0 +1,57 @@
+{
+    "Exercise Step": [
+        "Yuri, use your right arm to pick up the lemon from the bowl.",
+        "Then bring the lemon out to the side",
+        "Drop the lemon on the table.",
+        "Use your right arm to pick up the apple from the bowl. You can use your left arm to support your right arm if the apple is too heavy.",
+        "Then bring the apple all the way to the side",
+        "Place it next to the lemon on the table.",
+        "Use your right arm to pick up the banana from the bowl.",
+        "Then bring the banana out to the side",
+        "Drop the banana on the table."
+    ],
+    "Successful Instructions": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+    ],
+    "Failed Instructions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true
+    ],
+    "Omitted Instructions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "Duration of Completion": [
+        8.640108108520508,
+        13.59300971031189,
+        7.711820125579834,
+        8.337410926818848,
+        8.300693988800049,
+        13.429639101028442,
+        11.729060888290405,
+        18.124380111694336,
+        18.177579879760742
+    ]
+}

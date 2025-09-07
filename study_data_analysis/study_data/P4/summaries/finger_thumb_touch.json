@@ -1,0 +1,67 @@
+{
+    "Exercise Step": [
+        "Sit comfortably with your right hand, palm facing up, resting on a table.",
+        "Open your right hand with fingers relaxed and slightly spread.",
+        "Touch the tip of your right thumb to the tip of your index finger.",
+        "Release the thumb and index fingers",
+        "Touch the tip of your thumb to the tip of your middle finger.",
+        "Release the thumb and middle fingers",
+        "Touch the tip of your thumb to the tip of your ring finger.",
+        "Release the thumb and ring fingers",
+        "Touch the tip of your thumb to the tip of your pinky.",
+        "Release the thumb and the pinky.",
+        "Rest your right hand"
+    ],
+    "Successful Instructions": [
+        true,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true
+    ],
+    "Failed Instructions": [
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "Omitted Instructions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "Duration of Completion": [
+        3.558471202850342,
+        3.856285810470581,
+        18.117228031158447,
+        3.745137929916382,
+        18.147454023361206,
+        3.2501680850982666,
+        18.116801023483276,
+        3.758368968963623,
+        12.615344047546387,
+        3.263659715652466,
+        3.657196044921875
+    ]
+}

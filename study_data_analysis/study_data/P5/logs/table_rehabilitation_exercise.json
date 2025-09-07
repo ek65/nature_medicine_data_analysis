@@ -1,0 +1,68 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Bring your right arm across the table, horizontally, towards your left shoulder.",
+        "Time_Taken": 18.269755125045776,
+        "Completeness": false
+    },
+    "1": {
+        "ActionAPI": "CheckElbowExtension+SendImageAndTextRequestAction",
+        "Instruction": "Then extend your right arm back out as far as you can towards your right side.",
+        "Time_Taken": 3.513368844985962,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place a pink post-it anywhere on the left side of the table.",
+        "Time_Taken": 3.6366569995880127,
+        "Completeness": true
+    },
+    "3": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place a yellow sticky post-it pad above the pink one in a column.",
+        "Time_Taken": 18.259258270263672,
+        "Completeness": false
+    },
+    "4": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place a blue sticky post-it pad above the yellow one in a column.",
+        "Time_Taken": 10.355568885803223,
+        "Completeness": true
+    },
+    "5": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place a green cube as far as you can on your right side, opposite to the pink post-it note.",
+        "Time_Taken": 18.37597966194153,
+        "Completeness": false
+    },
+    "6": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place an orange cube right above the green cube.",
+        "Time_Taken": 7.9061150550842285,
+        "Completeness": true
+    },
+    "7": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place a blue cube above the orange cube.",
+        "Time_Taken": 10.485500812530518,
+        "Completeness": true
+    },
+    "8": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Move the green cube to the pink post-it note.",
+        "Time_Taken": 18.540602922439575,
+        "Completeness": false
+    },
+    "9": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Move the blue cube to the blue post-it note.",
+        "Time_Taken": 19.080350160598755,
+        "Completeness": false
+    },
+    "10": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Move the orange cube to the yellow post-it note.",
+        "Time_Taken": 18.489593982696533,
+        "Completeness": false
+    }
+}

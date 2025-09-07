@@ -1,0 +1,30 @@
+{
+    "precaution": "Remove any items from the table that you could knock off.",
+    "instruction": [
+        "Sit at the table with a bowl containing an apple, a lemon, and a banana in front of you.",
+        "Place your right hand near the bowl.",
+        "Use your left hand to stabilize the bowl if needed",
+        "Use your right hand to pick up the apple from the bowl.",
+        "Place the apple gently on the table.",
+        "Use your right hand to pick up the lemon from the bowl.",
+        "Gently place the lemon on the table next to the apple.",
+        "Place your right hand on the table to take some rest for about 15 seconds.",
+        "Pick up the banana using your right hand.",
+        "Place the banana on the table next to the other fruits.",
+        "Rest your right arm."
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}

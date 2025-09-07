@@ -1,0 +1,68 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckSeated+CheckWristSupination",
+        "Instruction": "Sit comfortably with your right hand, palm facing up, resting on a table.",
+        "Time_Taken": 3.558471202850342,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckFingerSpread",
+        "Instruction": "Open your right hand with fingers relaxed and slightly spread.",
+        "Time_Taken": 3.856285810470581,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckFingerTouch",
+        "Instruction": "Touch the tip of your right thumb to the tip of your index finger.",
+        "Time_Taken": 18.117228031158447,
+        "Completeness": false
+    },
+    "3": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Release the thumb and index fingers",
+        "Time_Taken": 3.745137929916382,
+        "Completeness": true
+    },
+    "4": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckFingerTouch",
+        "Instruction": "Touch the tip of your thumb to the tip of your middle finger.",
+        "Time_Taken": 18.147454023361206,
+        "Completeness": false
+    },
+    "5": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Release the thumb and middle fingers",
+        "Time_Taken": 3.2501680850982666,
+        "Completeness": true
+    },
+    "6": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckFingerTouch",
+        "Instruction": "Touch the tip of your thumb to the tip of your ring finger.",
+        "Time_Taken": 18.116801023483276,
+        "Completeness": false
+    },
+    "7": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Release the thumb and ring fingers",
+        "Time_Taken": 3.758368968963623,
+        "Completeness": true
+    },
+    "8": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckFingerTouch",
+        "Instruction": "Touch the tip of your thumb to the tip of your pinky.",
+        "Time_Taken": 12.615344047546387,
+        "Completeness": true
+    },
+    "9": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Release the thumb and the pinky.",
+        "Time_Taken": 3.263659715652466,
+        "Completeness": true
+    },
+    "10": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Rest your right hand",
+        "Time_Taken": 3.657196044921875,
+        "Completeness": true
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "precaution": "Remove any objects you may knock off from the table",
+    "instruction": [
+        "Sit at the table with orange, blue, and green cubes in front of you.",
+        "Use your right hand to pick up the orange cube.",
+        "Place the orange cube on the table as the base.",
+        "Use your right hand to pick up the blue cube.",
+        "Stack the blue cube on top of the orange cube.",
+        "Use your right hand to pick up the green cube.",
+        "Stack the green cube on top of the blue cube.",
+        "Grab the green cube with your right hand.",
+        "Place the green cube on the table.",
+        "Grab the blue cube with your right hand.",
+        "Place the blue cube on the table",
+        "Rest your right hand."
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}

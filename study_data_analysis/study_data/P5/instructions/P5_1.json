@@ -1,0 +1,27 @@
+{
+    "precaution": "Remove any items that you could knock off from the table.",
+    "instruction": [
+        "Sit at the table with a bowl containing three colored spheres\u2014yellow, red, and blue\u2014, a towel, and a tong in front of you.",
+        "Pour the bowl of the spheres onto a towel placed on the table in front of you.",
+        "Grab the tongs with your right hand.",
+        "Rest your right arm on the table.",
+        "While your right arm is resting on the table, hold the tongs and grab the spheres one by one.",
+        "Place the spheres back into the bowl while ensuring that your arm remains in a gravity-reduced position.",
+        "Once all the spheres have been placed into the bowl, release the tongs.",
+        "Rest your right hand."
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}

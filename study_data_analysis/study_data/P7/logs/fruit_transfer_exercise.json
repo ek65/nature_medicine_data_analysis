@@ -1,0 +1,68 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckSeated",
+        "Instruction": "Sit at the table with a bowl containing an apple, a lemon, and a banana in front of you.",
+        "Time_Taken": 4.361397981643677,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place your right hand near the bowl.",
+        "Time_Taken": 3.762108087539673,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Use your left hand to stabilize the bowl if needed",
+        "Time_Taken": 5.292046785354614,
+        "Completeness": true
+    },
+    "3": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Use your right hand to pick up the apple from the bowl.",
+        "Time_Taken": 9.496902227401733,
+        "Completeness": true
+    },
+    "4": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the apple gently on the table.",
+        "Time_Taken": 18.098721742630005,
+        "Completeness": false
+    },
+    "5": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Use your right hand to pick up the lemon from the bowl.",
+        "Time_Taken": 18.385780096054077,
+        "Completeness": false
+    },
+    "6": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Gently place the lemon on the table next to the apple.",
+        "Time_Taken": 18.65848207473755,
+        "Completeness": false
+    },
+    "7": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place your right hand on the table to take some rest for about 15 seconds.",
+        "Time_Taken": 13.598258972167969,
+        "Completeness": true
+    },
+    "8": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Pick up the banana using your right hand.",
+        "Time_Taken": 10.135356903076172,
+        "Completeness": true
+    },
+    "9": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the banana on the table next to the other fruits.",
+        "Time_Taken": 18.16385316848755,
+        "Completeness": false
+    },
+    "10": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Rest your right arm.",
+        "Time_Taken": 6.646410942077637,
+        "Completeness": true
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0": {
+        "ActionAPI": "CheckFingerSpread",
+        "Instruction": "Separate fingers as wide as you can on Right hand.",
+        "Time_Taken": 3.253678798675537,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "CheckFingerAdduction",
+        "Instruction": "Bring fingers back together.",
+        "Time_Taken": 17.96181893348694,
+        "Completeness": false
+    },
+    "2": {
+        "ActionAPI": "Repeat Loop (3x)",
+        "Instruction": "Repeat the first and second steps for 3 reps. Let me guide you through the steps.",
+        "Time_Taken": 82.54636406898499,
+        "Completeness": false
+    }
+}

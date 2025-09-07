@@ -1,0 +1,44 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Rest your elbow on the table.",
+        "Time_Taken": 6.115229845046997,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Hold the scoop with the handle in your hand.",
+        "Time_Taken": 5.206634044647217,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckWristPronation",
+        "Instruction": "Turn the scoop so that your palm faces down towards the table.",
+        "Time_Taken": 18.438483953475952,
+        "Completeness": false
+    },
+    "3": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckWristSupination",
+        "Instruction": "Rotate your hand so that the back of your hand touches the table.",
+        "Time_Taken": 18.1061429977417,
+        "Completeness": false
+    },
+    "4": {
+        "ActionAPI": "Repeat Loop (1x)",
+        "Instruction": "Repeat the rotation with the scoop once more, going palm down then palm up.",
+        "Time_Taken": 39.198951959609985,
+        "Completeness": false
+    },
+    "5": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Take a break until you can begin again.",
+        "Time_Taken": 4.133338928222656,
+        "Completeness": true
+    },
+    "6": {
+        "ActionAPI": "Repeat Loop (1x Full Exercise)",
+        "Instruction": "Repeat the exercise one more time. I will guide you through the steps.",
+        "Time_Taken": 65.80611515045166,
+        "Completeness": false
+    }
+}

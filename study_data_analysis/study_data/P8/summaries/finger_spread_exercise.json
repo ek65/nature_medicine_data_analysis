@@ -1,0 +1,27 @@
+{
+    "Exercise Step": [
+        "Separate fingers as wide as you can on Right hand.",
+        "Bring fingers back together.",
+        "Repeat the first and second steps for 3 reps. Let me guide you through the steps."
+    ],
+    "Successful Instructions": [
+        true,
+        false,
+        false
+    ],
+    "Failed Instructions": [
+        false,
+        true,
+        true
+    ],
+    "Omitted Instructions": [
+        false,
+        false,
+        false
+    ],
+    "Duration of Completion": [
+        3.253678798675537,
+        17.96181893348694,
+        82.54636406898499
+    ]
+}

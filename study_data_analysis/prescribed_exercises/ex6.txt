@@ -1,0 +1,49 @@
+Instruction1:
+1. "Yuri, use your right arm to pick up the lemon from the bowl.",
+2. "Then bring the lemon out to the side",
+3. "Drop the lemon on the table.",
+4. "Use your right arm to pick up the apple from the bowl. You can use your left arm to support your right arm if the apple is too heavy.",
+5. "Then bring the apple all the way to the side",
+6. "Place it next to the lemon on the table.",
+7. "Use your right arm to pick up the banana from the bowl.",
+8. "Then bring the banana out to the side",
+9. "Drop the banana on the table."
+
+Instruction2:
+1. Sit at the table with a bowl containing an apple, a lemon, and a banana in front of you.
+2. Place your right hand near the bowl.
+3. Use your right hand to pick up the apple from the bowl. 
+4. Place the apple gently on the table.
+5. Use your right hand to pick up the lemon from the bowl.
+6. Gently place the lemon on the table next to the apple. 
+7. Place your right hand on the table to take some rest. 
+8. Pick up the banana using your right hand. 
+9. Place the banana on the table next to the other fruits.
+10. Rest your right arm.
+
+Instruction3:
+1. "Prepare a bowl in front of you at about chest height.",
+2. "Position the bowl a little bit more on the right side.",
+3. "Take the lighter weight object, the cube.",
+4. "Pick up the cube and try to lift it as much as you can.",
+5. "Bend your arm as much as the brace will allow as you move the cube.",
+6. "Move the cube to your right.",
+7. "Place the cube on the side of the table and gently let it go.",
+8. "Lower your hand and pick up the banana.",
+9. "Lift your arm to bring the banana up towards your face, bending your elbow as much as the brace will allow.",
+10. "If the object is too heavy, move your arm out horizontally instead of lifting the banana high.",
+11. "Place the banana gently on the table.",
+12. "Grab the last cube in the bowl and try to lift it a little bit higher if possible.",
+13. "Move the cube to your side and then gently set it down."
+
+Instruction4:
+1. Sit at the table with a bowl containing an apple, a lemon, and a banana in front of you.
+2. Place your right hand near the bowl.
+3. Use your right hand to pick up the apple from the bowl. 
+4. Place the apple gently on the table.
+5. Use your right hand to pick up the lemon from the bowl.
+6. Gently place the lemon on the table. 
+7. Place your right hand on the table to take some rest. 
+8. Pick up the banana using your right hand. 
+9. Place the banana on the table.
+10. Rest your right arm.

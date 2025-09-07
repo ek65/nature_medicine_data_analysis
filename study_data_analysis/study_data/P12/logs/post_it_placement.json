@@ -1,0 +1,86 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckSeated",
+        "Instruction": "Sit at a table with pink, blue, and yellow post-its.",
+        "Time_Taken": 3.7581541538238525,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "With your left hand, place the pink post-it on the table to the left of you by about 10 inches.",
+        "Time_Taken": 9.612657070159912,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the blue post-it in the middle.",
+        "Time_Taken": 5.5978922843933105,
+        "Completeness": true
+    },
+    "3": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the yellow post-its on the right side by about 10 inches.",
+        "Time_Taken": 7.504592180252075,
+        "Completeness": true
+    },
+    "4": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Position your right hand on the blue post-it.",
+        "Time_Taken": 5.104151964187622,
+        "Completeness": true
+    },
+    "5": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Move your hand across the body to touch the pink post-it.",
+        "Time_Taken": 18.10480308532715,
+        "Completeness": false
+    },
+    "6": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Return your hand to the blue post-it.",
+        "Time_Taken": 3.452126979827881,
+        "Completeness": true
+    },
+    "7": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Move your hand to the side to touch the yellow post-it.",
+        "Time_Taken": 11.30082893371582,
+        "Completeness": true
+    },
+    "8": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Return your hand to the blue post-it.",
+        "Time_Taken": 3.6536810398101807,
+        "Completeness": true
+    },
+    "9": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Move your hand across the body to touch the pink post-it.",
+        "Time_Taken": 7.382996082305908,
+        "Completeness": true
+    },
+    "10": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Return your hand to the blue post-it.",
+        "Time_Taken": 7.471883058547974,
+        "Completeness": true
+    },
+    "11": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Move your hand to the side to touch the yellow post-it.",
+        "Time_Taken": 5.178850173950195,
+        "Completeness": true
+    },
+    "12": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Return your hand to the blue post-it.",
+        "Time_Taken": 18.44197416305542,
+        "Completeness": false
+    },
+    "13": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Relax your right hand.",
+        "Time_Taken": 3.281877040863037,
+        "Completeness": true
+    }
+}

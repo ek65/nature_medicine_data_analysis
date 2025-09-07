@@ -1,0 +1,62 @@
+{
+    "Exercise Step": [
+        "Sit at the table with a bowl containing an apple, a lemon, and a banana in front of you.",
+        "Place your right hand near the bowl.",
+        "Use your right hand to pick up the apple from the bowl.",
+        "Place the apple gently on the table.",
+        "Use your right hand to pick up the lemon from the bowl.",
+        "Gently place the lemon on the table.",
+        "Rest your right hand on the table.",
+        "Pick up the banana using your right hand.",
+        "Place the banana on the table.",
+        "Rest your right arm."
+    ],
+    "Successful Instructions": [
+        true,
+        true,
+        false,
+        false,
+        true,
+        true,
+        true,
+        false,
+        false,
+        true
+    ],
+    "Failed Instructions": [
+        false,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "Omitted Instructions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "Duration of Completion": [
+        3.771566867828369,
+        9.256147861480713,
+        18.295321226119995,
+        18.46917200088501,
+        7.679944038391113,
+        9.528127193450928,
+        5.379626035690308,
+        18.180439949035645,
+        18.093920946121216,
+        5.293365001678467
+    ]
+}

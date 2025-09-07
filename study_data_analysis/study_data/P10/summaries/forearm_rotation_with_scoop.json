@@ -1,0 +1,62 @@
+{
+    "Exercise Step": [
+        "Prepare a scoop in front of you.",
+        "Sit comfortably with your right hand on the table.",
+        "Turn your palm facing down.",
+        "Slowly rotate your forearm to turn your palm facing up.",
+        "Rotate your forearm again to turn your palm facing down.",
+        "Grab a scoop with your right hand.",
+        "Rotate your forearm to turn your palm up while holding the scoop.",
+        "Rotate your forearm to turn your palm down while holding the scoop.",
+        "Place the scoop on the table",
+        "Rest your right hand."
+    ],
+    "Successful Instructions": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        false,
+        true
+    ],
+    "Failed Instructions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "Omitted Instructions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "Duration of Completion": [
+        5.3657732009887695,
+        3.9116711616516113,
+        1.9073486328125e-05,
+        3.457604169845581,
+        3.1374809741973877,
+        5.397346019744873,
+        18.081132173538208,
+        7.519823312759399,
+        18.120314121246338,
+        7.736647129058838
+    ]
+}

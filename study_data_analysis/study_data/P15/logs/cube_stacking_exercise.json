@@ -1,0 +1,98 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Start with your right hand flat on the table.",
+        "Time_Taken": 18.13617992401123,
+        "Completeness": false
+    },
+    "1": {
+        "ActionAPI": "CheckElbowBend",
+        "Instruction": "Flex your elbow.",
+        "Time_Taken": 1.2110929489135742,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "CheckOpenPalm",
+        "Instruction": "Open up your fingers and your thumb.",
+        "Time_Taken": 1.7185750007629395,
+        "Completeness": true
+    },
+    "3": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Reach towards the green cube.",
+        "Time_Taken": 3.0405471324920654,
+        "Completeness": true
+    },
+    "4": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckClosedPalm",
+        "Instruction": "Close your fingers and your thumb around the green cube.",
+        "Time_Taken": 18.24565601348877,
+        "Completeness": false
+    },
+    "5": {
+        "ActionAPI": "CheckElbowBend",
+        "Instruction": "Flex your elbow.",
+        "Time_Taken": 5.141105890274048,
+        "Completeness": true
+    },
+    "6": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Lift the green cube.",
+        "Time_Taken": 3.6873977184295654,
+        "Completeness": true
+    },
+    "7": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Stack the green cube on top of the blue cube.",
+        "Time_Taken": 18.08870220184326,
+        "Completeness": false
+    },
+    "8": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Cross your body with your right arm towards the orange cube.",
+        "Time_Taken": 4.991660118103027,
+        "Completeness": true
+    },
+    "9": {
+        "ActionAPI": "CheckElbowExtension",
+        "Instruction": "Extend the elbow.",
+        "Time_Taken": 18.11981987953186,
+        "Completeness": false
+    },
+    "10": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Reach the orange cube.",
+        "Time_Taken": 5.216835021972656,
+        "Completeness": true
+    },
+    "11": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckClosedPalm",
+        "Instruction": "Close your hand around the orange cube.",
+        "Time_Taken": 18.083945989608765,
+        "Completeness": false
+    },
+    "12": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Lift the orange cube.",
+        "Time_Taken": 18.17874026298523,
+        "Completeness": false
+    },
+    "13": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Stack the orange cube on top of the green cube.",
+        "Time_Taken": 18.334846019744873,
+        "Completeness": false
+    },
+    "14": {
+        "ActionAPI": "CheckOpenPalm",
+        "Instruction": "Open your hand.",
+        "Time_Taken": 2.002716064453125e-05,
+        "Completeness": true
+    },
+    "15": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Bring your hand back down onto the table to rest.",
+        "Time_Taken": 7.472548723220825,
+        "Completeness": true
+    }
+}

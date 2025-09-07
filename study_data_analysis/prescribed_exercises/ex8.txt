@@ -1,0 +1,48 @@
+Instruction1:
+1. Sit at a table with a wallet placed in front of you.
+2. Place your right hand near the wallet.
+3. Hold the wallet with your left hand.
+4. Use your right hand to unzip the wallet slowly.
+5. Use your right hand to reach into the coin pocket.
+6.Pinch and remove one coin using your fingers.
+7. Place the coin on the table.
+8. Pinch and remove one more coin using your fingers.
+9, Place the coin on the table.
+10. Place the wallet on the table.
+11. Rest your right arm.
+
+Instruction2:
+1. Hold the wallet with your left hand.,
+2. Slowly bring the wallet to your right hand.,
+3. With your right hand, hold the zipper of the wallet.,
+4. Slowly open the zipper of the wallet while continuing to hold it with your left hand.,
+5. Retrieve a coin from inside the wallet while still holding the wallet with your left hand.,
+6. Hold the coin with your right hand.,
+7. Pick up the coin with your right hand fingers.,
+8. Place the coin on the table.,
+9. Put the wallet away.,
+10. Practice picking up the coin from the table and then putting it down.,
+11. Practice picking up the coin from the table and then putting it down, ensuring to bend your elbow during the process.,
+12. Practice the action of putting the coin back in the wallet, using this as a gripping exercise with your fingers.
+
+Instruction3:
+1. Sit at a table with a wallet placed in front of you.
+2. Place your right hand near the wallet.
+3. Hold the wallet with your left hand.
+4. Use your right hand to unzip the wallet slowly.
+5. Use your right hand to reach into the coin pocket.
+6.Pinch and remove one coin using your fingers.
+7. Place the coin on the table.
+8. Pinch and remove one more coin using your fingers.
+9, Place the coin on the table.
+10. Place the wallet on the table.
+11. Rest your right arm.
+
+Instruction4: 
+1. Hold the wallet with your left hand. 
+2. With your right hand, using your thumb and first finger to unzip the wallet.
+3. Put the wallet back on the table.
+4. With your right hand, take a coin out of the wallet.
+5. Place the coin on the table. 
+5. Take out the remaining coin from the wallet.
+6. Stack this coin on top of the other coin.

@@ -1,0 +1,92 @@
+{
+    "0": {
+        "ActionAPI": "CheckElbowExtension+SendImageAndTextRequestAction",
+        "Instruction": "Extend your right elbow out and grasp the of the scoop handle.",
+        "Time_Taken": 5.403733253479004,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "CheckElbowBend",
+        "Instruction": "Flex your right elbow towards your body.",
+        "Time_Taken": 2.1602389812469482,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "CheckElbowExtension+SendImageAndTextRequestAction",
+        "Instruction": "Extend your right elbow to place scoop over the container.",
+        "Time_Taken": 19.37243390083313,
+        "Completeness": false
+    },
+    "3": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "You may have to rotate your body towards the container.",
+        "Time_Taken": 5.8204731941223145,
+        "Completeness": true
+    },
+    "4": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Or you may have to do shoulder adduction to get closer to the container.",
+        "Time_Taken": 5.9757959842681885,
+        "Completeness": true
+    },
+    "5": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Release your grip.",
+        "Time_Taken": 6.017349004745483,
+        "Completeness": true
+    },
+    "6": {
+        "ActionAPI": "CheckElbowExtension+SendImageAndTextRequestAction",
+        "Instruction": "Extend your right elbow to grab the fork handle.",
+        "Time_Taken": 6.54637885093689,
+        "Completeness": true
+    },
+    "7": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "To place the fork into the container, you can rotate your trunk towards the container.",
+        "Time_Taken": 18.13980507850647,
+        "Completeness": false
+    },
+    "8": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Or adduct your shoulder in order for the fork to go over the container.",
+        "Time_Taken": 4.228743076324463,
+        "Completeness": true
+    },
+    "9": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Release the fork with your fingers.",
+        "Time_Taken": 18.141427993774414,
+        "Completeness": false
+    },
+    "10": {
+        "ActionAPI": "CheckElbowExtension+SendImageAndTextRequestAction",
+        "Instruction": "With your right hand, extend your elbow, to grasp the handle tongs.",
+        "Time_Taken": 7.451500177383423,
+        "Completeness": true
+    },
+    "11": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "If the tongs are to heavy to bring over, use your left arm to move the container towards the middle, closer your body.",
+        "Time_Taken": 3.46508526802063,
+        "Completeness": true
+    },
+    "12": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "You can also, use your left arm to help support your right wrist if the tongs are too heavy.",
+        "Time_Taken": 3.563199043273926,
+        "Completeness": true
+    },
+    "13": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Release your grasp on the tong handle.",
+        "Time_Taken": 15.57225489616394,
+        "Completeness": true
+    },
+    "14": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Use your left arm to gently put your right arm down.",
+        "Time_Taken": 6.835967302322388,
+        "Completeness": true
+    }
+}

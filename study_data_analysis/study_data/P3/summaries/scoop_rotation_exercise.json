@@ -1,0 +1,47 @@
+{
+    "Exercise Step": [
+        "Rest your elbow on the table.",
+        "Hold the scoop with the handle in your hand.",
+        "Turn the scoop so that your palm faces down towards the table.",
+        "Rotate your hand so that the back of your hand touches the table.",
+        "Repeat the rotation with the scoop once more, going palm down then palm up.",
+        "Take a break until you can begin again.",
+        "Repeat the exercise one more time. I will guide you through the steps."
+    ],
+    "Successful Instructions": [
+        true,
+        true,
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "Failed Instructions": [
+        false,
+        false,
+        true,
+        true,
+        true,
+        false,
+        true
+    ],
+    "Omitted Instructions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "Duration of Completion": [
+        6.115229845046997,
+        5.206634044647217,
+        18.438483953475952,
+        18.1061429977417,
+        39.198951959609985,
+        4.133338928222656,
+        65.80611515045166
+    ]
+}

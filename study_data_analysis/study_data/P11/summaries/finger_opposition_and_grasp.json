@@ -1,0 +1,47 @@
+{
+    "Exercise Step": [
+        "Perform opposition (touch the pads of your thumb and index finger) between your thumb and index finger.",
+        "Try the same opposition with your thumb and middle finger.",
+        "Next, try the opposition with your thumb and ring finger.",
+        "Attempt the opposition with your thumb and pinkie finger.",
+        "Use your thumb and index finger to pick up the handle of the spoon and drop it into your pink box.",
+        "Repeat the same process with a fork, using your thumb and index finger. If the fork is a bit heavy, use your middle finger together with your thumb and index finger to form a tripod grasp.",
+        "Drop the fork into the container."
+    ],
+    "Successful Instructions": [
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "Failed Instructions": [
+        false,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true
+    ],
+    "Omitted Instructions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "Duration of Completion": [
+        2.5388197898864746,
+        2.563400983810425,
+        18.040579080581665,
+        18.234354972839355,
+        18.19652485847473,
+        18.11374807357788,
+        18.238574266433716
+    ]
+}

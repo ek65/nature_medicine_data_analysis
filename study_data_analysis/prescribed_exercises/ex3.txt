@@ -1,0 +1,42 @@
+Instruction1: 
+1. Rest your elbow on the table.
+2. Hold the scoop with the handle in your hand.
+3. Turn the scoop so that your palm faces down towards the table.
+4. Rotate your hand so that the back of your hand touches the table.
+5. Repeat the rotation with the scoop once more, going palm down then palm up.
+6. Take a break until you can begin again .
+7. Repeat the exercise 1 more time. 
+Stop if there is any pain. 
+
+Instruction2:
+1. Prepare a scoop in front of you.
+2. Sit comfortably with your right hand on the table.
+3. Turn your palm facing down.
+4. Slowly rotate your forearm to turn your palm facing up.
+5. Rotate your forearm again to turn your palm facing down.
+6. Grab a scoop with your right hand.
+7. Rotate your forearm to turn your palm up while holding the scoop.
+8. Rotate your forearm to turn your palm down while holding the scoop.
+9. Place the scoop on the table
+10. Rest your right hand.
+
+Instruction3:
+1. Prepare a scoop in front of you.,
+2. Sit comfortably with your right hand on the table.,
+3. Turn your palm facing down.",
+4. Slowly rotate your forearm to turn your palm facing up.,
+5. Rotate your forearm again to turn your palm facing down.,
+6. Lift your hand from the table, while stabilizing your elbow on the table.
+7. Grab a scoop with your right hand.,
+8. Rotate your forearm to turn your palm up, while holding the scoop.,
+9. Rotate your forearm to turn your palm down, while holding the scoop.,
+10. Place the scoop on the table,
+11. Rest your right hand.
+
+Instruction4:
+1. "Put the scoop in your right hand.",
+2. "Rest your right forearm on the table.",
+3. "Keep your right forearm in contact with the table and turn your right arm so your palm is facing up and the scoop is towards the right.",
+4. "Turn your right arm so your palm is facing down towards the table and the scoop is towards the left.",
+5. "Hold each position for 3 seconds.",
+6. "Repeat these steps one more time."

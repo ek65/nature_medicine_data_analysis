@@ -1,0 +1,62 @@
+{
+    "Exercise Step": [
+        "Rest your right hand on the table with your palm facing down.",
+        "Spread apart your index and middle fingers as much as you can.",
+        "Bring them back together.",
+        "Spread apart your middle and ring fingers.",
+        "Bring them back together.",
+        "Spread apart your ring and little fingers.",
+        "Bring them back together.",
+        "Spread apart your thumb and index fingers.",
+        "Bring them back together.",
+        "Rest your right hand."
+    ],
+    "Successful Instructions": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "Failed Instructions": [
+        false,
+        false,
+        false,
+        false,
+        true,
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "Omitted Instructions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "Duration of Completion": [
+        3.7481627464294434,
+        3.1706438064575195,
+        4.178391695022583,
+        4.380998849868774,
+        17.98993730545044,
+        17.98978590965271,
+        2.0338802337646484,
+        2.857808828353882,
+        17.96817374229431,
+        7.322782039642334
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "Exercise Step": [
+        "Sit at the table with a spoon, a pair of chopsticks, a fork, and a container in front of you.",
+        "Place your right hand on the table near the utensils.",
+        "Use your right hand to pick up the spoon.",
+        "Place the spoon into the container.",
+        "Rest your hand on the table to take a brief break.",
+        "Pick up the pair of chopsticks with your right hand.",
+        "Place the chopsticks into the container.",
+        "Rest your hand on the table to take a brief break.",
+        "Pick up the fork with your right hand.",
+        "Place the fork into the container.",
+        "Rest your right arm."
+    ],
+    "Successful Instructions": [
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "Failed Instructions": [
+        false,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "Omitted Instructions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "Duration of Completion": [
+        3.8654611110687256,
+        18.17613434791565,
+        5.2841432094573975,
+        18.14870595932007,
+        18.097151041030884,
+        18.078956604003906,
+        18.166820287704468,
+        3.6538751125335693,
+        7.823953151702881,
+        18.080108880996704,
+        7.894139289855957
+    ]
+}

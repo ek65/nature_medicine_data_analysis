@@ -1,0 +1,26 @@
+{
+    "precaution": "If you feel pain, fatigue, or dizziness, please tell the system so that we can terminate the exercise for your safety. Stop if there is any pain.",
+    "instruction": [
+        "Rest your elbow on the table.",
+        "Hold the scoop with the handle in your hand.",
+        "Turn the scoop so that your palm faces down towards the table.",
+        "Rotate your hand so that the back of your hand touches the table.",
+        "Repeat the rotation with the scoop once more, going palm down then palm up.",
+        "Take a break until you can begin again .",
+        "Repeat the exercise one more time. I will guide you through the steps."
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}

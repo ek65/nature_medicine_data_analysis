@@ -1,0 +1,56 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Yuri, use your right arm to pick up the lemon from the bowl.",
+        "Time_Taken": 8.640108108520508,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "CheckElbowExtension+SendImageAndTextRequestAction",
+        "Instruction": "Then bring the lemon out to the side",
+        "Time_Taken": 13.59300971031189,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Drop the lemon on the table.",
+        "Time_Taken": 7.711820125579834,
+        "Completeness": true
+    },
+    "3": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Use your right arm to pick up the apple from the bowl. You can use your left arm to support your right arm if the apple is too heavy.",
+        "Time_Taken": 8.337410926818848,
+        "Completeness": true
+    },
+    "4": {
+        "ActionAPI": "CheckElbowExtension+SendImageAndTextRequestAction",
+        "Instruction": "Then bring the apple all the way to the side",
+        "Time_Taken": 8.300693988800049,
+        "Completeness": true
+    },
+    "5": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place it next to the lemon on the table.",
+        "Time_Taken": 13.429639101028442,
+        "Completeness": true
+    },
+    "6": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Use your right arm to pick up the banana from the bowl.",
+        "Time_Taken": 11.729060888290405,
+        "Completeness": true
+    },
+    "7": {
+        "ActionAPI": "CheckElbowExtension+SendImageAndTextRequestAction",
+        "Instruction": "Then bring the banana out to the side",
+        "Time_Taken": 18.124380111694336,
+        "Completeness": false
+    },
+    "8": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Drop the banana on the table.",
+        "Time_Taken": 18.177579879760742,
+        "Completeness": false
+    }
+}

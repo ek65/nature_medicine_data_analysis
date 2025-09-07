@@ -1,0 +1,67 @@
+{
+    "Exercise Step": [
+        "Sit at a table with pink, blue, and yellow post-its.",
+        "With your left hand, place the pink post-it on the table to the left of you by about 10 inches.",
+        "Place the blue post-it in the middle.",
+        "Place the yellow post-its on the right side by about 10 inches.",
+        "Position your right hand on the blue post-it.",
+        "Move your hand across the body to touch the pink post-it.",
+        "Move your hand to the side to touch the yellow post-it.",
+        "Move your hand across the body to touch the pink post-it.",
+        "Move your hand to the side to touch the yellow post-it.",
+        "Return your hand to blue post-it.",
+        "Relax your right hand."
+    ],
+    "Successful Instructions": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true
+    ],
+    "Failed Instructions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "Omitted Instructions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "Duration of Completion": [
+        4.374459981918335,
+        11.313921928405762,
+        9.56395697593689,
+        8.843265056610107,
+        3.3558480739593506,
+        8.197131872177124,
+        18.64384412765503,
+        8.112490892410278,
+        12.256298065185547,
+        8.418965101242065,
+        3.350754976272583
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Prepare a bowl in front of you at about chest height.",
+        "Time_Taken": 13.449182987213135,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Position the bowl a little bit more on the right side.",
+        "Time_Taken": 18.77817702293396,
+        "Completeness": false
+    },
+    "2": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Take the lighter weight object, the cube.",
+        "Time_Taken": 7.6531689167022705,
+        "Completeness": true
+    },
+    "3": {
+        "ActionAPI": "CheckElbowExtension+SendImageAndTextRequestAction",
+        "Instruction": "Pick up the cube and try to lift it as much as you can.",
+        "Time_Taken": 8.729283094406128,
+        "Completeness": true
+    },
+    "4": {
+        "ActionAPI": "CheckElbowBend+SendImageAndTextRequestAction",
+        "Instruction": "Bend your arm as much as the brace will allow as you move the cube.",
+        "Time_Taken": 3.856950044631958,
+        "Completeness": true
+    },
+    "5": {
+        "ActionAPI": "RecordVideoAndEvaluateAction",
+        "Instruction": "Move the cube to your right.",
+        "Time_Taken": 12.398083686828613,
+        "Completeness": true
+    },
+    "6": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the cube on the side of the table and gently let it go.",
+        "Time_Taken": 10.267660140991211,
+        "Completeness": true
+    },
+    "7": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Lower your hand and pick up the banana.",
+        "Time_Taken": 18.178044080734253,
+        "Completeness": false
+    },
+    "8": {
+        "ActionAPI": "CheckElbowBend+SendImageAndTextRequestAction",
+        "Instruction": "Lift your arm to bring the banana up towards your face, bending your elbow as much as the brace will allow.",
+        "Time_Taken": 18.486650943756104,
+        "Completeness": false
+    },
+    "9": {
+        "ActionAPI": "RecordVideoAndEvaluateAction",
+        "Instruction": "If the object is too heavy, move your arm out horizontally instead of lifting the banana high.",
+        "Time_Taken": 17.944135904312134,
+        "Completeness": true
+    },
+    "10": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the banana gently on the table.",
+        "Time_Taken": 9.81564712524414,
+        "Completeness": true
+    },
+    "11": {
+        "ActionAPI": "CheckElbowExtension+SendImageAndTextRequestAction",
+        "Instruction": "Grab the last cube in the bowl and try to lift it a little bit higher if possible.",
+        "Time_Taken": 18.3745539188385,
+        "Completeness": false
+    },
+    "12": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Move the cube to your side and then gently set it down.",
+        "Time_Taken": 18.627254009246826,
+        "Completeness": false
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "Exercise Step": [
+        "Sit at the table with a bowl containing three colored spheres\u2014yellow, red, and blue\u2014, a towel, and a tong in front of you.",
+        "Pour the bowl of the spheres onto a towel placed on the table in front of you.",
+        "Grab the tongs with your right hand.",
+        "Rest your right arm on the table.",
+        "While your right arm is resting on the table, hold the tongs and grab the spheres one by one.",
+        "Place the spheres back into the bowl while ensuring that your arm remains in a gravity-reduced position.",
+        "Once all the spheres have been placed into the bowl, release the tongs.",
+        "Rest your right hand."
+    ],
+    "Successful Instructions": [
+        true,
+        true,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "Failed Instructions": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        true,
+        true
+    ],
+    "Omitted Instructions": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "Duration of Completion": [
+        4.0352020263671875,
+        13.832562923431396,
+        5.464792966842651,
+        19.35294222831726,
+        7.595586061477661,
+        18.252442836761475,
+        18.168669939041138,
+        18.141035795211792
+    ]
+}

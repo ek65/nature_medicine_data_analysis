@@ -1,0 +1,28 @@
+{
+    "precaution": "If you feel pain, fatigue, or dizziness, please tell the system so that we can terminate the exercise for your safety.",
+    "instruction": [
+        "Yuri, use your right arm to pick up the lemon from the bowl.",
+        "Then bring the lemon out to the side",
+        "Drop the lemon on the table.",
+        "Use your right arm to pick up the apple from the bowl. You can use your left arm to support your right arm if the apple is too heavy.",
+        "Then bring the apple all the way to the side",
+        "Place it next to the lemon on the table.",
+        "Use your right arm to pick up the banana from the bowl.",
+        "Then bring the banana out to the side",
+        "Drop the banana on the table."
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "precaution": "Clear your surroundings to make sure you do not knock over any items.",
+    "instruction": [
+        "Hold the wallet with your left hand.",
+        "Slowly bring the wallet to your right hand.",
+        "With your right hand, hold the zipper of the wallet.",
+        "Slowly open the zipper of the wallet while continuing to hold it with your left hand.",
+        "Retrieve a coin from inside the wallet while still holding the wallet with your left hand.",
+        "Hold the coin with your right hand.",
+        "Pick up the coin with your right hand fingers.",
+        "Place the coin on the table.",
+        "Put the wallet away.",
+        "Practice picking up the coin from the table and then putting it down.",
+        "Practice picking up the coin from the table and then putting it down, ensuring to bend your elbow during the process.",
+        "Practice the action of putting the coin back in the wallet, using this as a gripping exercise with your fingers."
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}

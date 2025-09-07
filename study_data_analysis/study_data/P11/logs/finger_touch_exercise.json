@@ -1,0 +1,68 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckSeated",
+        "Instruction": "Sit comfortably with your right hand resting on a table.",
+        "Time_Taken": 7.927759170532227,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "SendImageAndTextRequestAction+CheckWristSupination+CheckFingerSpread",
+        "Instruction": "Open your right hand palm side up with fingers relaxed and slightly spread.",
+        "Time_Taken": 5.255210876464844,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "CheckFingerTouch",
+        "Instruction": "Touch the tip of your right thumb to the tip of your index finger.",
+        "Time_Taken": 2.8283557891845703,
+        "Completeness": true
+    },
+    "3": {
+        "ActionAPI": "CheckFingerExtension",
+        "Instruction": "Release the thumb and index fingers",
+        "Time_Taken": 1.5272598266601562,
+        "Completeness": true
+    },
+    "4": {
+        "ActionAPI": "CheckFingerTouch",
+        "Instruction": "Touch the tip of your thumb to the tip of your middle finger.",
+        "Time_Taken": 4.789079189300537,
+        "Completeness": true
+    },
+    "5": {
+        "ActionAPI": "CheckFingerExtension",
+        "Instruction": "Release the thumb and middle fingers",
+        "Time_Taken": 2.752931833267212,
+        "Completeness": true
+    },
+    "6": {
+        "ActionAPI": "CheckFingerTouch",
+        "Instruction": "Touch the tip of your thumb to the tip of your ring finger.",
+        "Time_Taken": 17.947633028030396,
+        "Completeness": false
+    },
+    "7": {
+        "ActionAPI": "CheckFingerExtension",
+        "Instruction": "Release the thumb and ring fingers",
+        "Time_Taken": 5.0067901611328125e-06,
+        "Completeness": true
+    },
+    "8": {
+        "ActionAPI": "CheckFingerTouch",
+        "Instruction": "Touch the tip of your thumb to the tip of your pinky.",
+        "Time_Taken": 4.190305948257446,
+        "Completeness": true
+    },
+    "9": {
+        "ActionAPI": "CheckFingerExtension",
+        "Instruction": "Release the thumb and the pinky.",
+        "Time_Taken": 3.814697265625e-06,
+        "Completeness": true
+    },
+    "10": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Rest your right hand",
+        "Time_Taken": 4.170297861099243,
+        "Completeness": true
+    }
+}

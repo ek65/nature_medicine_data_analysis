@@ -1,0 +1,50 @@
+{
+    "0": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the green block on the table in front of you with your left hand.",
+        "Time_Taken": 7.833491086959839,
+        "Completeness": true
+    },
+    "1": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the orange block on the table in front of you with your left hand.",
+        "Time_Taken": 3.3544921875,
+        "Completeness": true
+    },
+    "2": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the blue block on the table in front of you with your left hand.",
+        "Time_Taken": 11.620850086212158,
+        "Completeness": true
+    },
+    "3": {
+        "ActionAPI": "CheckElbowExtension+SendImageAndTextRequestAction",
+        "Instruction": "Extend your right elbow and reach for the green block.",
+        "Time_Taken": 10.182408809661865,
+        "Completeness": true
+    },
+    "4": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Grab the green block with your right hand.",
+        "Time_Taken": 3.446676254272461,
+        "Completeness": true
+    },
+    "5": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Place the green block on top of the orange block.",
+        "Time_Taken": 18.349318027496338,
+        "Completeness": false
+    },
+    "6": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Reach for the blue block with your right hand.",
+        "Time_Taken": 5.245506048202515,
+        "Completeness": true
+    },
+    "7": {
+        "ActionAPI": "SendImageAndTextRequestAction",
+        "Instruction": "Stack the blue block on top of the green block.",
+        "Time_Taken": 7.696605920791626,
+        "Completeness": true
+    }
+}

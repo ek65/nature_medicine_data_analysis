@@ -1,0 +1,34 @@
+{
+    "precaution": "If you feel pain, fatigue, or dizziness, please tell the system so that we can terminate the exercise for your safety.",
+    "instruction": [
+        "Extend your right elbow out and grasp the of the scoop handle.",
+        "Flex your right elbow towards your body.",
+        "Extend your right elbow to place scoop over the container.",
+        "You may have to rotate your body towards the container.",
+        "Or you may have to do shoulder adduction to get closer to the container.",
+        "Release your grip.",
+        "Extend your right elbow to grab the fork handle.",
+        "To place the fork into the container, you can rotate your trunk towards the container.",
+        "Or adduct your shoulder in order for the fork to go over the container.",
+        "Release the fork with your fingers.",
+        "With your right hand, extend your elbow, to grasp the handle tongs.",
+        "If the tongs are to heavy to bring over, use your left arm to move the container towards the middle, closer your body.",
+        "You can also, use your left arm to help support your right wrist if the tongs are too heavy.",
+        "Release your grasp on the tong handle.",
+        "Use your left arm to gently put your right arm down."
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}

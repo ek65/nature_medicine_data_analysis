@@ -1,0 +1,30 @@
+{
+    "precaution": "Clear the table to remove any items you can knock off.",
+    "instruction": [
+        "Sit at a table with pink, blue, and yellow post-its.",
+        "With your left hand, place the pink post-it on the table to the left of you by about 10 inches.",
+        "Place the blue post-it in the middle.",
+        "Place the yellow post-its on the right side by about 10 inches.",
+        "Position your right hand on the blue post-it.",
+        "Move your hand across the body to touch the pink post-it.",
+        "Move your hand to the side to touch the yellow post-it.",
+        "Move your hand across the body to touch the pink post-it.",
+        "Move your hand to the side to touch the yellow post-it.",
+        "Return your hand to blue post-it.",
+        "Relax your right hand."
+    ],
+    "setup": {
+        "ego": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+    }
+}
