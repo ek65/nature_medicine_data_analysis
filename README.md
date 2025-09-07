@@ -106,7 +106,6 @@ The analysis will generate:
 For detailed information about the data columns and structure in the generated CSV file, refer to the annotations in the `summarize_study_data()` function in `summarize_study_data.py`.
 
 ## Reproducing Intervention Software
-In `LLM_intervention_software_generation` folder c
 
 ### System Prompt
 #### Coding Guideline
